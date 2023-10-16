@@ -7,7 +7,7 @@ from data.databases import DataBase
 
 
 async def main() -> None:
-    bot = Bot("6603429920:AAGgQdIRgUDWzZgdwGLX-CSVqrKJSPlL3Y0")
+    bot = Bot("u token")
     dp = Dispatcher()
     db = DataBase()
 
